@@ -1,28 +1,47 @@
 body{
     background-color: rgb(199, 231, 231);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 h1{ color: white;
     background-color: blue;
-    width: 25%;
+    
+    text-align: center;
+    
+     
+    
+    
 }
+ul{ list-style-type: upper-roman;}
+h2{
+    text-align: center;
+
+
+}
+button{ box-shadow: 5px 5px coral}
+
+
 a{
     background-color: aqua;
+    margin-left: 50px
     margin: 10px;
     padding: 15px;
     border: black solid;
     border-radius: 80px;
+    
 }
 .textoVerde{color: rgb(31, 151, 41);}
 span{color: yellow;}
-p{background-color: blueviolet
-    
-    ;}
+p{background-color: blueviolet;font-family: 'Kalam', cursive;
+    font-family: 'Reenie Beanie', cursive;
+    font-size: 20px
+}
 .rojo{color: rgb(35, 16, 199)
     
     ;}
 img{ 
     width: 50%;
-    
+}
 
+a{font-family: 'Kalam', cursive;
 
 }
